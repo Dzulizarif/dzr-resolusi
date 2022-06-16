@@ -3,6 +3,7 @@ RENCANA KONTENT DZR :
   *ES6
   *Framework
   ^Vue
+  ^React
  -Fundamental Data
 -PHP Framework
 ^Laravel
