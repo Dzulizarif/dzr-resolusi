@@ -2,7 +2,9 @@ RENCANA KONTENT DZR :
 -Javascript
   *ES6
   *Framework
- -Fundamental Data
+  ^Angular
+  ^React
 -PHP Framework
+^Laravel
 -Interview
 -Vlogs
